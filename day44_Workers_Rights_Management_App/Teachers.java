@@ -1,5 +1,5 @@
 package day44_Workers_Rights_Management_App;
-public class Teachers extends Administrator implements commonMethods {
+public class Teachers extends Administrator implements day44_Workers_Rights_Management_App.commonMethods {
 
 	
 protected Teachers(String name, int iDNumber, Boolean isWorking, String jobTitle, String jobPosition) {
